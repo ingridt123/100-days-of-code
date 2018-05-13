@@ -2,8 +2,8 @@
 
 ### Day 1: May 13, 2018
 
-**Today's Progress**: 
+**Today's Progress**: FreeCodeCamp level 143 to 197
 
-**Thoughts:** 
+**Thoughts:** good start despite a busy day
 
-**Link to work:** []()
+**Link to work:** [FreeCodeCamp Level 197](https://www.freecodecamp.org/challenges/counting-cards)
